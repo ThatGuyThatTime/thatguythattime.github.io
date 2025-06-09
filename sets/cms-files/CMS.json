@@ -175,7 +175,7 @@
             "number": 103,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
-            "rules_text": "Vigilance\nWhenever a token creature you control attacks, put a +1/+1 counter on that creature.\nWhen Joan dies, deal 7 damage to target opponent.",
+            "rules_text": "Vigilance\nWhenever a token creature you control attacks, put a +1/+1 counter on that creature.\nWhen Joan dies, she deals 7 damage to target opponent.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -866,7 +866,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
             "loyalty2": "",
             "artist2": "Raja Nandepu",
             "notes": ""
@@ -894,7 +894,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
             "loyalty2": "",
             "artist2": "Ben Jackson",
             "notes": ""
@@ -922,7 +922,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
             "loyalty2": "",
             "artist2": "Collette Curran",
             "notes": ""
@@ -1076,7 +1076,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
             "loyalty2": "",
             "artist2": "Anthony Catillaz",
             "notes": ""
@@ -1500,7 +1500,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
             "loyalty2": "",
             "artist2": "Hue Teo",
             "notes": ""
