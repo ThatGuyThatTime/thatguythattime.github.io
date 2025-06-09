@@ -1,0 +1,236 @@
+[CustomCards]
+	[
+		{
+			"name": "Super Mario, The Plumber",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Mario",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/15_Super Mario, The Plumber.jpg"
+			}
+		},
+		{
+			"name": "Kirby, Masahiro's Hero",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/10_Kirby, Masahiro's Hero.jpg"
+			}
+		},
+		{
+			"name": "Bowser, The King Koopa",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Creature — Turtle Noble",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/3_Bowser, The King Koopa.jpg"
+			}
+		},
+		{
+			"name": "Giga Bowser Punch!",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Sorcery — Final Smash",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/9_Giga Bowser Punch!.jpg"
+			}
+		},
+		{
+			"name": "The Villager, Town Mayor",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/17_The Villager, Town Mayor.jpg"
+			}
+		},
+		{
+			"name": "Dream Home!",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Sorcery — Final Smash",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/6_Dream Home!.jpg"
+			}
+		},
+		{
+			"name": "Captain Falcon",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/4_Captain Falcon.jpg"
+			}
+		},
+		{
+			"name": "Falcon Punch!",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/8_Falcon Punch!.jpg"
+			}
+		},
+		{
+			"name": "Blue Falcon!",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Sorcery — Final Smash",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/2_Blue Falcon!.jpg"
+			}
+		},
+		{
+			"name": "Mr. Game & Watch",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/11_Mr. Game & Watch.jpg"
+			}
+		},
+		{
+			"name": "Octopus!",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Sorcery — Final Smash",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/1_Octopus!.jpg"
+			}
+		},
+		{
+			"name": "Samus, Metroid Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/14_Samus, Metroid Slayer.jpg"
+			}
+		},
+		{
+			"name": "Zero Laser!",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Legendary Sorcery — Final Smash",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/18_Zero Laser!.jpg"
+			}
+		},
+		{
+			"name": "Zero-Suit Samus",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/19_Zero-Suit Samus.jpg"
+			}
+		},
+		{
+			"name": "Pac-Man, The Original",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/12_Pac-Man, The Original.jpg"
+			}
+		},
+		{
+			"name": "Super Pac-Man!",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{U}{R}",
+			"type": "Legendary Sorcery — Final Smash",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/16_Super Pac-Man!.jpg"
+			}
+		},
+		{
+			"name": "Dark Samus, The Copy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Phyrexian Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/5_Dark Samus, The Copy.jpg"
+			}
+		},
+		{
+			"name": "Dry Bowser, Compleat King",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W/P}{B}",
+			"type": "Legendary Creature — Phyrexian Dragon Noble",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/7_Dry Bowser, Compleat King.jpg"
+			}
+		},
+		{
+			"name": "Phazon Laser!",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Legendary Sorcery — Final Smash",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/ssb-files/img/13_Phazon Laser!.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Super Mario, The Plumber
+	1 Kirby, Masahiro's Hero
+	1 Bowser, The King Koopa
+	1 Giga Bowser Punch!
+	1 The Villager, Town Mayor
+	1 Dream Home!
+	1 Captain Falcon
+	2 Falcon Punch!
+	1 Blue Falcon!
+	1 Mr. Game & Watch
+	1 Octopus!
+	1 Samus, Metroid Slayer
+	1 Zero Laser!
+	1 Zero-Suit Samus
+	1 Pac-Man, The Original
+	1 Super Pac-Man!
+	1 Dark Samus, The Copy
+	1 Dry Bowser, Compleat King
+	1 Phazon Laser!
+[uncommon(4)]
+[common(7)]
+[wildcard(2)]
+	4 Super Mario, The Plumber
+	4 Kirby, Masahiro's Hero
+	4 Bowser, The King Koopa
+	4 Giga Bowser Punch!
+	4 The Villager, Town Mayor
+	4 Dream Home!
+	4 Captain Falcon
+	7 Falcon Punch!
+	4 Blue Falcon!
+	4 Mr. Game & Watch
+	4 Octopus!
+	4 Samus, Metroid Slayer
+	4 Zero Laser!
+	4 Zero-Suit Samus
+	4 Pac-Man, The Original
+	4 Super Pac-Man!
+	4 Dark Samus, The Copy
+	4 Dry Bowser, Compleat King
+	4 Phazon Laser!
