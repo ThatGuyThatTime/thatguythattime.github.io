@@ -1,0 +1,1850 @@
+[CustomCards]
+	[
+		{
+			"name": "Yoda, The Grandmaster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Alien Jedi",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/118_Yoda, The Grandmaster.jpg"
+			}
+		},
+		{
+			"name": "Chancellor Palpatine",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/69_Chancellor Palpatine.jpg"
+			}
+		},
+		{
+			"name": "Unlimited Power!",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/110_Unlimited Power!.jpg"
+			}
+		},
+		{
+			"name": "Vader's Wrath",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/114_Vader's Wrath.jpg"
+			}
+		},
+		{
+			"name": "Ahsoka, Forsaken Padawan",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Alien Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/64_Ahsoka, Forsaken Padawan.jpg"
+			}
+		},
+		{
+			"name": "AT-AT",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/121_AT-AT.jpg"
+			}
+		},
+		{
+			"name": "Vader, Embodiment of Evil",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Sith Lord",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/111_Vader, Embodiment of Evil.jpg"
+			}
+		},
+		{
+			"name": "Like My Father Before Me",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/93_Like My Father Before Me.jpg"
+			}
+		},
+		{
+			"name": "Siege Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/107_Siege Strike.jpg"
+			}
+		},
+		{
+			"name": "Your World is Mine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/119_Your World is Mine.jpg"
+			}
+		},
+		{
+			"name": "Obi-Wan, The Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Jedi",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/98_Obi-Wan, The Wanderer.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Guidance",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/18_Ancestral Guidance.jpg"
+			}
+		},
+		{
+			"name": "Anakin's Betrayal",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/65_Anakin's Betrayal.jpg"
+			}
+		},
+		{
+			"name": "Disturbance in the Force",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/19_Disturbance in the Force.jpg"
+			}
+		},
+		{
+			"name": "Bacta Submersion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/1_Bacta Submersion.jpg"
+			}
+		},
+		{
+			"name": "Jabba's Rancor",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Alien Beast",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/56_Jabba's Rancor.jpg"
+			}
+		},
+		{
+			"name": "Darth Vader, Dark Dawn",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Sith Lord",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/71_Darth Vader, Dark Dawn.jpg"
+			}
+		},
+		{
+			"name": "Bounty Blaze",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/42_Bounty Blaze.jpg"
+			}
+		},
+		{
+			"name": "Vader, Emperor's Fist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Sith Lord",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/112_Vader, Emperor's Fist.jpg"
+			}
+		},
+		{
+			"name": "Flame Trooper",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Stormtrooper",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/74_Flame Trooper.jpg"
+			}
+		},
+		{
+			"name": "Dealing in Absolutes",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/43_Dealing in Absolutes.jpg"
+			}
+		},
+		{
+			"name": "Vibrosword",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/131_Vibrosword.jpg"
+			}
+		},
+		{
+			"name": "Obi-Wan, Jedi Mentor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Jedi",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/97_Obi-Wan, Jedi Mentor.jpg"
+			}
+		},
+		{
+			"name": "Force Lightning",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/45_Force Lightning.jpg"
+			}
+		},
+		{
+			"name": "Jump into Hyperspeed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/23_Jump into Hyperspeed.jpg"
+			}
+		},
+		{
+			"name": "Yoda, Sage of Dagobah",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Alien Nomad",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/62_Yoda, Sage of Dagobah.jpg"
+			}
+		},
+		{
+			"name": "Boba Fett, Bounty Hunter",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Creature — Clone Rogue",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/68_Boba Fett, Bounty Hunter.jpg"
+			}
+		},
+		{
+			"name": "Bountiful Looting",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/41_Bountiful Looting.jpg"
+			}
+		},
+		{
+			"name": "Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/83_Hunt.jpg"
+			}
+		},
+		{
+			"name": "Stormtrooper",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Stormtrooper",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/1_Stormtrooper.jpg"
+			}
+		},
+		{
+			"name": "Valkorion, The Immortal",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Noble Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/115_Valkorion, The Immortal.jpg"
+			}
+		},
+		{
+			"name": "Invasion of Hoth",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Battle — Siege",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/86_Invasion of Hoth.jpg"
+			}
+		},
+		{
+			"name": "At the End of All Things",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/66_At the End of All Things.jpg"
+			}
+		},
+		{
+			"name": "Damnation",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/31_Damnation.jpg"
+			}
+		},
+		{
+			"name": "Assassin Sith",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Sith Assassin",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/29_Assassin Sith.jpg"
+			}
+		},
+		{
+			"name": "Throttle",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/16_Throttle.jpg"
+			}
+		},
+		{
+			"name": "Interrogation Tactics",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/84_Interrogation Tactics.jpg"
+			}
+		},
+		{
+			"name": "Emergency Mission",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/4_Emergency Mission.jpg"
+			}
+		},
+		{
+			"name": "Separatist AAT",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/106_Separatist AAT.jpg"
+			}
+		},
+		{
+			"name": "Super Battle Droid",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Droid",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/4_Super Battle Droid.jpg"
+			}
+		},
+		{
+			"name": "Battle Droid",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Droid",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/3_Battle Droid.jpg"
+			}
+		},
+		{
+			"name": "Invasion of Naboo",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U/B}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/120_Invasion of Naboo.jpg"
+			}
+		},
+		{
+			"name": "Unsavory Deal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/40_Unsavory Deal.jpg"
+			}
+		},
+		{
+			"name": "There Is No Escape",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/39_There Is No Escape.jpg"
+			}
+		},
+		{
+			"name": "Might of the Force",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/95_Might of the Force.jpg"
+			}
+		},
+		{
+			"name": "General Kenobi",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Jedi",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/77_General Kenobi.jpg"
+			}
+		},
+		{
+			"name": "Kit Fisto, Smiling Jedi",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Jedi Knight",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/57_Kit Fisto, Smiling Jedi.jpg"
+			}
+		},
+		{
+			"name": "Ki-Adi-Mundi, Jedi Master",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Jedi Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/9_Ki-Adi-Mundi, Jedi Master.jpg"
+			}
+		},
+		{
+			"name": "Republic LAAT",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/11_Republic LAAT.jpg"
+			}
+		},
+		{
+			"name": "Clone Trooper",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Clone Trooper",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/2_Clone Trooper.jpg"
+			}
+		},
+		{
+			"name": "Republic ARC-170",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/25_Republic ARC-170.jpg"
+			}
+		},
+		{
+			"name": "New Mission",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/61_New Mission.jpg"
+			}
+		},
+		{
+			"name": "The Ebon Hawk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/125_The Ebon Hawk.jpg"
+			}
+		},
+		{
+			"name": "Darth Bane, The Dark Lord",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Sith Noble",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/70_Darth Bane, The Dark Lord.jpg"
+			}
+		},
+		{
+			"name": "Lord Vader of the Empire",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Sith Lord",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/94_Lord Vader of the Empire.jpg"
+			}
+		},
+		{
+			"name": "Jabba, The Hutt",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Hutt Noble",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/87_Jabba, The Hutt.jpg"
+			}
+		},
+		{
+			"name": "Refurbished AT-ST",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/128_Refurbished AT-ST.jpg"
+			}
+		},
+		{
+			"name": "Plo Koon, Aerial Avenger",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Jedi Knight Pilot",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/103_Plo Koon, Aerial Avenger.jpg"
+			}
+		},
+		{
+			"name": "Jar-Jar, Gungan Clutz",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Gungan",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/88_Jar-Jar, Gungan Clutz.jpg"
+			}
+		},
+		{
+			"name": "Han Solo, Galactic Scoundrel",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/46_Han Solo, Galactic Scoundrel.jpg"
+			}
+		},
+		{
+			"name": "Chewbacca, Ferocious Furball",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Wookie Rebel",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/52_Chewbacca, Ferocious Furball.jpg"
+			}
+		},
+		{
+			"name": "General Grievous, Saber Thief",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Artifact Creature — Cyborg",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/76_General Grievous, Saber Thief.jpg"
+			}
+		},
+		{
+			"name": "Geonosian Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/34_Geonosian Warrior.jpg"
+			}
+		},
+		{
+			"name": "Geonosia",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/137_Geonosia.jpg"
+			}
+		},
+		{
+			"name": "Geonosian Mothership",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/78_Geonosian Mothership.jpg"
+			}
+		},
+		{
+			"name": "Geonosian Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Alien Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/6_Geonosian Knight.jpg"
+			}
+		},
+		{
+			"name": "Sullust",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/143_Sullust.jpg"
+			}
+		},
+		{
+			"name": "Mekeb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/140_Mekeb.jpg"
+			}
+		},
+		{
+			"name": "Vast Wetlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Planet",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/146_Vast Wetlands.jpg"
+			}
+		},
+		{
+			"name": "Alderaan",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/133_Alderaan.jpg"
+			}
+		},
+		{
+			"name": "Mustafar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/141_Mustafar.jpg"
+			}
+		},
+		{
+			"name": "Akiva",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/132_Akiva.jpg"
+			}
+		},
+		{
+			"name": "Tatooine",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Desert Planet",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/145_Tatooine.jpg"
+			}
+		},
+		{
+			"name": "Kamino",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/139_Kamino.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/147_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/148_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/149_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/150_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/151_Forest.jpg"
+			}
+		},
+		{
+			"name": "Tanalorr",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/144_Tanalorr.jpg"
+			}
+		},
+		{
+			"name": "Bespin",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/134_Bespin.jpg"
+			}
+		},
+		{
+			"name": "Jawa Sandcrawler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/127_Jawa Sandcrawler.jpg"
+			}
+		},
+		{
+			"name": "Desert Marauder MM6",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/44_Desert Marauder MM6.jpg"
+			}
+		},
+		{
+			"name": "Twin Beam ISP",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/130_Twin Beam ISP.jpg"
+			}
+		},
+		{
+			"name": "First Order Interceptor",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/73_First Order Interceptor.jpg"
+			}
+		},
+		{
+			"name": "Reflection Day",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/24_Reflection Day.jpg"
+			}
+		},
+		{
+			"name": "Jedi Youth",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Jedi",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/8_Jedi Youth.jpg"
+			}
+		},
+		{
+			"name": "Scarif",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/142_Scarif.jpg"
+			}
+		},
+		{
+			"name": "Leia, Resistance Leader",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/91_Leia, Resistance Leader.jpg"
+			}
+		},
+		{
+			"name": "Bring Them Down",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/2_Bring Them Down.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "{G}{U}{R}",
+			"type": "",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/63_.jpg"
+			}
+		},
+		{
+			"name": "Scout Trooper",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Stormtrooper",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/13_Scout Trooper.jpg"
+			}
+		},
+		{
+			"name": "Pelta-Class Frigate",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{W}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/102_Pelta-Class Frigate.jpg"
+			}
+		},
+		{
+			"name": "Carbon Chamber",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/123_Carbon Chamber.jpg"
+			}
+		},
+		{
+			"name": "Hoth",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Snow Land — Planet",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/138_Hoth.jpg"
+			}
+		},
+		{
+			"name": "Super Tactical Droid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Creature — Droid Scout",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/108_Super Tactical Droid.jpg"
+			}
+		},
+		{
+			"name": "AT-ST",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/122_AT-ST.jpg"
+			}
+		},
+		{
+			"name": "Tactical Droid",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Droid",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/15_Tactical Droid.jpg"
+			}
+		},
+		{
+			"name": "Vader, Supreme Commander",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Sith Lord",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/113_Vader, Supreme Commander.jpg"
+			}
+		},
+		{
+			"name": "Darth Vader the Cruel",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Sith Lord",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/32_Darth Vader the Cruel.jpg"
+			}
+		},
+		{
+			"name": "Claimed by Endor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/53_Claimed by Endor.jpg"
+			}
+		},
+		{
+			"name": "Endor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/136_Endor.jpg"
+			}
+		},
+		{
+			"name": "Dagobah",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Planet",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/135_Dagobah.jpg"
+			}
+		},
+		{
+			"name": "Submit to the Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/50_Submit to the Force.jpg"
+			}
+		},
+		{
+			"name": "Palpatine's Foul Plot",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/101_Palpatine's Foul Plot.jpg"
+			}
+		},
+		{
+			"name": "Endor Scout Speeder",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/5_Endor Scout Speeder.jpg"
+			}
+		},
+		{
+			"name": "Siege the Republic",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/14_Siege the Republic.jpg"
+			}
+		},
+		{
+			"name": "Nute Gunray, Viceroy",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Alien Noble",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/96_Nute Gunray, Viceroy.jpg"
+			}
+		},
+		{
+			"name": "Defender of the Order",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Jedi Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/3_Defender of the Order.jpg"
+			}
+		},
+		{
+			"name": "Outlaw's Bribery",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/38_Outlaw's Bribery.jpg"
+			}
+		},
+		{
+			"name": "Loth-Cats",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Alien Cat",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/59_Loth-Cats.jpg"
+			}
+		},
+		{
+			"name": "Mos Eisley Bounty Board",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/36_Mos Eisley Bounty Board.jpg"
+			}
+		},
+		{
+			"name": "Big-Bounty Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Wookie Rogue",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/67_Big-Bounty Brawler.jpg"
+			}
+		},
+		{
+			"name": "Claim the Reward",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/30_Claim the Reward.jpg"
+			}
+		},
+		{
+			"name": "Never Stop Hunting",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/37_Never Stop Hunting.jpg"
+			}
+		},
+		{
+			"name": "Force-wise Fighter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Jedi Warrior",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/54_Force-wise Fighter.jpg"
+			}
+		},
+		{
+			"name": "Intuite the Force",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/85_Intuite the Force.jpg"
+			}
+		},
+		{
+			"name": "Agile Acolyte",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Alien Jedi",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/17_Agile Acolyte.jpg"
+			}
+		},
+		{
+			"name": "Republic Restraint",
+			"rarity": "common",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/26_Republic Restraint.jpg"
+			}
+		},
+		{
+			"name": "Order 37",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/99_Order 37.jpg"
+			}
+		},
+		{
+			"name": "Introspection",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/7_Introspection.jpg"
+			}
+		},
+		{
+			"name": "Palpatine's Ascension",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{B}{B}",
+			"type": "Legendary Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/100_Palpatine's Ascension.jpg"
+			}
+		},
+		{
+			"name": "Knight of the Council",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}{2/G}{2/U}",
+			"type": "Creature — Jedi Knight",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/90_Knight of the Council.jpg"
+			}
+		},
+		{
+			"name": "Republic Battalion",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Clone Trooper",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/10_Republic Battalion.jpg"
+			}
+		},
+		{
+			"name": "Vice Chancellor Ameda",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Alien Advisor",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/116_Vice Chancellor Ameda.jpg"
+			}
+		},
+		{
+			"name": "Union of the Republic",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/109_Union of the Republic.jpg"
+			}
+		},
+		{
+			"name": "Geonosian Warleader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Alien Noble",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/79_Geonosian Warleader.jpg"
+			}
+		},
+		{
+			"name": "Jedi Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Jedi Cleric",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/89_Jedi Archivist.jpg"
+			}
+		},
+		{
+			"name": "Jedi Waymaster",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jedi Scout",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/22_Jedi Waymaster.jpg"
+			}
+		},
+		{
+			"name": "Growth in Solitude",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/55_Growth in Solitude.jpg"
+			}
+		},
+		{
+			"name": "Rebel Informant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Rebel Scout",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/48_Rebel Informant.jpg"
+			}
+		},
+		{
+			"name": "Telling Blow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/51_Telling Blow.jpg"
+			}
+		},
+		{
+			"name": "Let the Past Die",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/92_Let the Past Die.jpg"
+			}
+		},
+		{
+			"name": "Imperial Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/47_Imperial Charge.jpg"
+			}
+		},
+		{
+			"name": "Submit to Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/28_Submit to Darkness.jpg"
+			}
+		},
+		{
+			"name": "The Saber of Vader",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/129_The Saber of Vader.jpg"
+			}
+		},
+		{
+			"name": "Jawa Junk Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Alien Rogue",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/35_Jawa Junk Dealer.jpg"
+			}
+		},
+		{
+			"name": "Wookie Warleader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Wookie Rebel",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/117_Wookie Warleader.jpg"
+			}
+		},
+		{
+			"name": "Helm of Vader",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/126_Helm of Vader.jpg"
+			}
+		},
+		{
+			"name": "Drop 'Em!",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/33_Drop 'Em!.jpg"
+			}
+		},
+		{
+			"name": "Force Traitor",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Sith Jedi",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/75_Force Traitor.jpg"
+			}
+		},
+		{
+			"name": "Force Ghost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/21_Force Ghost.jpg"
+			}
+		},
+		{
+			"name": "Lone Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Jedi Rogue",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/58_Lone Warrior.jpg"
+			}
+		},
+		{
+			"name": "Sith Sabersinger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Sith Warrior",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/49_Sith Sabersinger.jpg"
+			}
+		},
+		{
+			"name": "Grand Admiral Thrawn",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Chiss Noble",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/81_Grand Admiral Thrawn.jpg"
+			}
+		},
+		{
+			"name": "Emperor Palpatine",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Sith Noble",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/72_Emperor Palpatine.jpg"
+			}
+		},
+		{
+			"name": "Rest in Peace",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/12_Rest in Peace.jpg"
+			}
+		},
+		{
+			"name": "Grievous, Supreme Commander",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Warrior",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/82_Grievous, Supreme Commander.jpg"
+			}
+		},
+		{
+			"name": "Eternal Loyalty",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/20_Eternal Loyalty.jpg"
+			}
+		},
+		{
+			"name": "The Death Star",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land — Planet",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/124_The Death Star.jpg"
+			}
+		},
+		{
+			"name": "Gracious Reunion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/80_Gracious Reunion.jpg"
+			}
+		},
+		{
+			"name": "Rally the Order",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/104_Rally the Order.jpg"
+			}
+		},
+		{
+			"name": "Renegade Jedi",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Jedi Acolyte",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/105_Renegade Jedi.jpg"
+			}
+		},
+		{
+			"name": "Republic Revolt",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/27_Republic Revolt.jpg"
+			}
+		},
+		{
+			"name": "Luke, Rebel Defender",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Jedi Rebel",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/stw-files/img/60_Luke, Rebel Defender.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Yoda, The Grandmaster
+	1 Chancellor Palpatine
+	2 Unlimited Power!
+	2 Vader's Wrath
+	2 Ahsoka, Forsaken Padawan
+	1 Vader, Embodiment of Evil
+	2 Like My Father Before Me
+	2 Obi-Wan, The Wanderer
+	2 Anakin's Betrayal
+	2 Darth Vader, Dark Dawn
+	2 Vader, Emperor's Fist
+	2 Obi-Wan, Jedi Mentor
+	2 Boba Fett, Bounty Hunter
+	2 Valkorion, The Immortal
+	2 Invasion of Hoth
+	2 At the End of All Things
+	2 Damnation
+	2 Invasion of Naboo
+	2 General Kenobi
+	2 Republic LAAT
+	1 Darth Bane, The Dark Lord
+	2 Lord Vader of the Empire
+	2 Jabba, The Hutt
+	2 Plo Koon, Aerial Avenger
+	2 Jar-Jar, Gungan Clutz
+	2 Han Solo, Galactic Scoundrel
+	2 Chewbacca, Ferocious Furball
+	2 General Grievous, Saber Thief
+	2 Geonosia
+	2 Geonosian Mothership
+	2 Sullust
+	2 Mekeb
+	2 Alderaan
+	2 Mustafar
+	1 Tatooine
+	2 Kamino
+	1 Tanalorr
+	2 Bespin
+	2 Leia, Resistance Leader
+	2 Pelta-Class Frigate
+	1 Hoth
+	1 Vader, Supreme Commander
+	2 Darth Vader the Cruel
+	2 Endor
+	1 Dagobah
+	2 Palpatine's Foul Plot
+	2 Nute Gunray, Viceroy
+	2 Never Stop Hunting
+	2 Order 37
+	2 Palpatine's Ascension
+	2 Republic Battalion
+	1 Vice Chancellor Ameda
+	2 Union of the Republic
+	1 Let the Past Die
+	2 The Saber of Vader
+	2 Helm of Vader
+	1 Grand Admiral Thrawn
+	1 Emperor Palpatine
+	2 Rest in Peace
+	1 Grievous, Supreme Commander
+	2 Eternal Loyalty
+	1 The Death Star
+	2 Gracious Reunion
+	2 Rally the Order
+	2 Luke, Rebel Defender
+[uncommon(4)]
+	4 AT-AT
+	4 Your World is Mine
+	4 Bacta Submersion
+	4 Jabba's Rancor
+	4 Flame Trooper
+	4 Jump into Hyperspeed
+	4 Yoda, Sage of Dagobah
+	4 Hunt
+	4 Interrogation Tactics
+	4 Separatist AAT
+	4 Kit Fisto, Smiling Jedi
+	4 Ki-Adi-Mundi, Jedi Master
+	4 Republic ARC-170
+	4 Refurbished AT-ST
+	4 Akiva
+	4 Jawa Sandcrawler
+	4 First Order Interceptor
+	4 Scarif
+	4 Carbon Chamber
+	4 Super Tactical Droid
+	4 Tactical Droid
+	4 Submit to the Force
+	4 Loth-Cats
+	4 Mos Eisley Bounty Board
+	4 Big-Bounty Brawler
+	4 Intuite the Force
+	4 Knight of the Council
+	4 Geonosian Warleader
+	4 Jedi Archivist
+	4 Telling Blow
+	4 Imperial Charge
+	4 Submit to Darkness
+	4 Jawa Junk Dealer
+	4 Wookie Warleader
+	4 Drop 'Em!
+	4 Force Traitor
+	4 Force Ghost
+	4 Renegade Jedi
+[common(7)]
+	8 Siege Strike
+	8 Ancestral Guidance
+	8 Disturbance in the Force
+	8 Bounty Blaze
+	8 Dealing in Absolutes
+	8 Vibrosword
+	8 Force Lightning
+	8 Bountiful Looting
+	8 Assassin Sith
+	8 Throttle
+	8 Emergency Mission
+	8 Unsavory Deal
+	8 There Is No Escape
+	8 Might of the Force
+	8 New Mission
+	8 The Ebon Hawk
+	8 Geonosian Warrior
+	8 Geonosian Knight
+	8 Vast Wetlands
+	8 Desert Marauder MM6
+	8 Twin Beam ISP
+	8 Reflection Day
+	8 Jedi Youth
+	8 Bring Them Down
+	8 
+	8 Scout Trooper
+	8 AT-ST
+	8 Claimed by Endor
+	8 Endor Scout Speeder
+	8 Siege the Republic
+	8 Defender of the Order
+	8 Outlaw's Bribery
+	8 Claim the Reward
+	8 Force-wise Fighter
+	8 Agile Acolyte
+	8 Republic Restraint
+	8 Introspection
+	8 Jedi Waymaster
+	8 Growth in Solitude
+	8 Rebel Informant
+	8 Lone Warrior
+	8 Sith Sabersinger
+	8 Republic Revolt
+[wildcard(2)]
+	4 Yoda, The Grandmaster
+	4 Chancellor Palpatine
+	7 Unlimited Power!
+	7 Vader's Wrath
+	7 Ahsoka, Forsaken Padawan
+	15 AT-AT
+	4 Vader, Embodiment of Evil
+	7 Like My Father Before Me
+	6 Siege Strike
+	15 Your World is Mine
+	7 Obi-Wan, The Wanderer
+	6 Ancestral Guidance
+	7 Anakin's Betrayal
+	6 Disturbance in the Force
+	15 Bacta Submersion
+	15 Jabba's Rancor
+	7 Darth Vader, Dark Dawn
+	6 Bounty Blaze
+	7 Vader, Emperor's Fist
+	15 Flame Trooper
+	6 Dealing in Absolutes
+	6 Vibrosword
+	7 Obi-Wan, Jedi Mentor
+	6 Force Lightning
+	15 Jump into Hyperspeed
+	15 Yoda, Sage of Dagobah
+	7 Boba Fett, Bounty Hunter
+	6 Bountiful Looting
+	15 Hunt
+	7 Valkorion, The Immortal
+	7 Invasion of Hoth
+	7 At the End of All Things
+	7 Damnation
+	6 Assassin Sith
+	6 Throttle
+	15 Interrogation Tactics
+	6 Emergency Mission
+	15 Separatist AAT
+	7 Invasion of Naboo
+	6 Unsavory Deal
+	6 There Is No Escape
+	6 Might of the Force
+	7 General Kenobi
+	15 Kit Fisto, Smiling Jedi
+	15 Ki-Adi-Mundi, Jedi Master
+	7 Republic LAAT
+	15 Republic ARC-170
+	6 New Mission
+	6 The Ebon Hawk
+	4 Darth Bane, The Dark Lord
+	7 Lord Vader of the Empire
+	7 Jabba, The Hutt
+	15 Refurbished AT-ST
+	7 Plo Koon, Aerial Avenger
+	7 Jar-Jar, Gungan Clutz
+	7 Han Solo, Galactic Scoundrel
+	7 Chewbacca, Ferocious Furball
+	7 General Grievous, Saber Thief
+	6 Geonosian Warrior
+	7 Geonosia
+	7 Geonosian Mothership
+	6 Geonosian Knight
+	7 Sullust
+	7 Mekeb
+	6 Vast Wetlands
+	7 Alderaan
+	7 Mustafar
+	15 Akiva
+	4 Tatooine
+	7 Kamino
+	4 Tanalorr
+	7 Bespin
+	15 Jawa Sandcrawler
+	6 Desert Marauder MM6
+	6 Twin Beam ISP
+	15 First Order Interceptor
+	6 Reflection Day
+	6 Jedi Youth
+	15 Scarif
+	7 Leia, Resistance Leader
+	6 Bring Them Down
+	6 
+	6 Scout Trooper
+	7 Pelta-Class Frigate
+	15 Carbon Chamber
+	4 Hoth
+	15 Super Tactical Droid
+	6 AT-ST
+	15 Tactical Droid
+	4 Vader, Supreme Commander
+	7 Darth Vader the Cruel
+	6 Claimed by Endor
+	7 Endor
+	4 Dagobah
+	15 Submit to the Force
+	7 Palpatine's Foul Plot
+	6 Endor Scout Speeder
+	6 Siege the Republic
+	7 Nute Gunray, Viceroy
+	6 Defender of the Order
+	6 Outlaw's Bribery
+	15 Loth-Cats
+	15 Mos Eisley Bounty Board
+	15 Big-Bounty Brawler
+	6 Claim the Reward
+	7 Never Stop Hunting
+	6 Force-wise Fighter
+	15 Intuite the Force
+	6 Agile Acolyte
+	6 Republic Restraint
+	7 Order 37
+	6 Introspection
+	7 Palpatine's Ascension
+	15 Knight of the Council
+	7 Republic Battalion
+	4 Vice Chancellor Ameda
+	7 Union of the Republic
+	15 Geonosian Warleader
+	15 Jedi Archivist
+	6 Jedi Waymaster
+	6 Growth in Solitude
+	6 Rebel Informant
+	15 Telling Blow
+	4 Let the Past Die
+	15 Imperial Charge
+	15 Submit to Darkness
+	7 The Saber of Vader
+	15 Jawa Junk Dealer
+	15 Wookie Warleader
+	7 Helm of Vader
+	15 Drop 'Em!
+	15 Force Traitor
+	15 Force Ghost
+	6 Lone Warrior
+	6 Sith Sabersinger
+	4 Grand Admiral Thrawn
+	4 Emperor Palpatine
+	7 Rest in Peace
+	4 Grievous, Supreme Commander
+	7 Eternal Loyalty
+	4 The Death Star
+	7 Gracious Reunion
+	7 Rally the Order
+	15 Renegade Jedi
+	6 Republic Revolt
+	7 Luke, Rebel Defender

@@ -1,7 +1,7 @@
 ﻿{
     "name": "STAR WARS: A GALAXY FAR, FAR AWAY",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
@@ -2795,6 +2795,5 @@
             "artist": "Tony Foti",
             "notes": ""
         }
-    ],
-    "version": 1
+    ]
 }
