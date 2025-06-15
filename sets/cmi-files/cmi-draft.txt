@@ -1,0 +1,625 @@
+[CustomCards]
+	[
+		{
+			"name": "Aurelia, Ascended Guildmage",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Angel Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/21_Aurelia, Ascended Guildmage.jpg"
+			}
+		},
+		{
+			"name": "Kull Varis, Vortex King",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/29_Kull Varis, Vortex King.jpg"
+			}
+		},
+		{
+			"name": "Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Angel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/1_Angel.jpg"
+			}
+		},
+		{
+			"name": "Foundation of the Izzet",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/26_Foundation of the Izzet.jpg"
+			}
+		},
+		{
+			"name": "Austere Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/36_Austere Citadel.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Gardens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/40_Idyllic Gardens.jpg"
+			}
+		},
+		{
+			"name": "Charred Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/37_Charred Fortress.jpg"
+			}
+		},
+		{
+			"name": "Mighty Garrison",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Mountain",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/43_Mighty Garrison.jpg"
+			}
+		},
+		{
+			"name": "Ingenius Boilerworks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/42_Ingenius Boilerworks.jpg"
+			}
+		},
+		{
+			"name": "Imposing Basilica",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/41_Imposing Basilica.jpg"
+			}
+		},
+		{
+			"name": "Ragged Lowland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/45_Ragged Lowland.jpg"
+			}
+		},
+		{
+			"name": "Mutated Hall",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Forest",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/44_Mutated Hall.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/39_Forsaken Grove.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Passages",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/38_Forgotten Passages.jpg"
+			}
+		},
+		{
+			"name": "Sun, The New Arisen",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Monkey Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/17_Sun, The New Arisen.jpg"
+			}
+		},
+		{
+			"name": "Demonic Price",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/24_Demonic Price.jpg"
+			}
+		},
+		{
+			"name": "Governor of Destiny",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Avatar Bird Cleric",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/27_Governor of Destiny.jpg"
+			}
+		},
+		{
+			"name": "Season of Plenty",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/30_Season of Plenty.jpg"
+			}
+		},
+		{
+			"name": "Seraldos, Storm Survivor",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Dragon Avatar",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/31_Seraldos, Storm Survivor.jpg"
+			}
+		},
+		{
+			"name": "Vermus, Manticore King",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Manticore",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/32_Vermus, Manticore King.jpg"
+			}
+		},
+		{
+			"name": "Zachirre, Sea Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/9_Zachirre, Sea Hero.jpg"
+			}
+		},
+		{
+			"name": "The Benevolence",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thatguythattime.github.io/sets/cmi-files/img/22_The Benevolence_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/22_The Benevolence_front.jpg"
+			}
+		},
+		{
+			"name": "Drasha, Rebellious Orc",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Orc",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/18_Drasha, Rebellious Orc.jpg"
+			}
+		},
+		{
+			"name": "Vermon, Horror of the Hills",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/14_Vermon, Horror of the Hills.jpg"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/2_Wolf.jpg"
+			}
+		},
+		{
+			"name": "Withrow, Wildwaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Druid Artificer",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/33_Withrow, Wildwaker.jpg"
+			}
+		},
+		{
+			"name": "Boris, The Stoic King",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Lion Noble",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/1_Boris, The Stoic King.jpg"
+			}
+		},
+		{
+			"name": "Perch Protection",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/4_Perch Protection.jpg"
+			}
+		},
+		{
+			"name": "Amelia, The Skyfarer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/20_Amelia, The Skyfarer.jpg"
+			}
+		},
+		{
+			"name": "Credest, The Guilded Flame",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Dragon God",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/23_Credest, The Guilded Flame.jpg"
+			}
+		},
+		{
+			"name": "Akelios Grunts",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/19_Akelios Grunts.jpg"
+			}
+		},
+		{
+			"name": "Peranon, The War God",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/16_Peranon, The War God.jpg"
+			}
+		},
+		{
+			"name": "Mighty Griff",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/3_Mighty Griff.jpg"
+			}
+		},
+		{
+			"name": "Commander's Sphere",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/35_Commander's Sphere.jpg"
+			}
+		},
+		{
+			"name": "Rhystic Study",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/2_Rhystic Study.jpg"
+			}
+		},
+		{
+			"name": "Coalition Victory",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/4_Coalition Victory.jpg"
+			}
+		},
+		{
+			"name": "Necropotence",
+			"rarity": "masterpiece",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/3_Necropotence.jpg"
+			}
+		},
+		{
+			"name": "Smothering Tithe",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/1_Smothering Tithe.jpg"
+			}
+		},
+		{
+			"name": "Aruga, Phantom Death",
+			"rarity": "rare",
+			"mana_cost": "{8}{B}{B}{B}",
+			"type": "Legendary Creature — Spirit Assassin",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/10_Aruga, Phantom Death.jpg"
+			}
+		},
+		{
+			"name": "Xolo, Zachirre's Mentor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Elemental Wizard",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/8_Xolo, Zachirre's Mentor.jpg"
+			}
+		},
+		{
+			"name": "Twist of Allegiance",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/6_Twist of Allegiance.jpg"
+			}
+		},
+		{
+			"name": "Krithia Steals the Charms",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/28_Krithia Steals the Charms.jpg"
+			}
+		},
+		{
+			"name": "Johanna, Master Fencer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/2_Johanna, Master Fencer.jpg"
+			}
+		},
+		{
+			"name": "Xerces, Time Mage Scion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Wizard Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/7_Xerces, Time Mage Scion.jpg"
+			}
+		},
+		{
+			"name": "Necrologia",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/12_Necrologia.jpg"
+			}
+		},
+		{
+			"name": "Thirsty Manananggal",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Horror",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/13_Thirsty Manananggal.jpg"
+			}
+		},
+		{
+			"name": "Clovis, The Death God",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/11_Clovis, The Death God.jpg"
+			}
+		},
+		{
+			"name": "Righteous Campaign",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/5_Righteous Campaign.jpg"
+			}
+		},
+		{
+			"name": "Fear the Usurper",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/25_Fear the Usurper.jpg"
+			}
+		},
+		{
+			"name": "Armor of the Darkwyrm",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/34_Armor of the Darkwyrm.jpg"
+			}
+		},
+		{
+			"name": "Akelios Grunts",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Token Creature — Skeleton Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/3_Akelios Grunts.jpg"
+			}
+		},
+		{
+			"name": "Eternal Rage",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/15_Eternal Rage.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Aurelia, Ascended Guildmage
+	2 Kull Varis, Vortex King
+	2 Foundation of the Izzet
+	2 Austere Citadel
+	2 Idyllic Gardens
+	2 Charred Fortress
+	2 Mighty Garrison
+	2 Ingenius Boilerworks
+	2 Imposing Basilica
+	2 Ragged Lowland
+	2 Mutated Hall
+	2 Forsaken Grove
+	2 Forgotten Passages
+	2 Sun, The New Arisen
+	2 Demonic Price
+	2 Governor of Destiny
+	2 Season of Plenty
+	2 Seraldos, Storm Survivor
+	2 The Benevolence
+	2 Perch Protection
+	2 Credest, The Guilded Flame
+	2 Peranon, The War God
+	2 Aruga, Phantom Death
+	2 Xolo, Zachirre's Mentor
+	2 Twist of Allegiance
+	2 Krithia Steals the Charms
+	2 Necrologia
+	2 Clovis, The Death God
+	1 Righteous Campaign
+	2 Fear the Usurper
+	2 Armor of the Darkwyrm
+	2 Eternal Rage
+[uncommon(4)]
+	4 Vermus, Manticore King
+	4 Zachirre, Sea Hero
+	4 Drasha, Rebellious Orc
+	4 Vermon, Horror of the Hills
+	4 Withrow, Wildwaker
+	4 Boris, The Stoic King
+	4 Amelia, The Skyfarer
+	4 Akelios Grunts
+	4 Johanna, Master Fencer
+	4 Xerces, Time Mage Scion
+[common(7)]
+	8 Mighty Griff
+	8 Commander's Sphere
+	8 Thirsty Manananggal
+[wildcard(2)]
+	7 Aurelia, Ascended Guildmage
+	7 Kull Varis, Vortex King
+	7 Foundation of the Izzet
+	7 Austere Citadel
+	7 Idyllic Gardens
+	7 Charred Fortress
+	7 Mighty Garrison
+	7 Ingenius Boilerworks
+	7 Imposing Basilica
+	7 Ragged Lowland
+	7 Mutated Hall
+	7 Forsaken Grove
+	7 Forgotten Passages
+	7 Sun, The New Arisen
+	7 Demonic Price
+	7 Governor of Destiny
+	7 Season of Plenty
+	7 Seraldos, Storm Survivor
+	15 Vermus, Manticore King
+	15 Zachirre, Sea Hero
+	7 The Benevolence
+	15 Drasha, Rebellious Orc
+	15 Vermon, Horror of the Hills
+	15 Withrow, Wildwaker
+	15 Boris, The Stoic King
+	7 Perch Protection
+	15 Amelia, The Skyfarer
+	7 Credest, The Guilded Flame
+	15 Akelios Grunts
+	7 Peranon, The War God
+	6 Mighty Griff
+	6 Commander's Sphere
+	7 Aruga, Phantom Death
+	7 Xolo, Zachirre's Mentor
+	7 Twist of Allegiance
+	7 Krithia Steals the Charms
+	15 Johanna, Master Fencer
+	15 Xerces, Time Mage Scion
+	7 Necrologia
+	6 Thirsty Manananggal
+	7 Clovis, The Death God
+	4 Righteous Campaign
+	7 Fear the Usurper
+	7 Armor of the Darkwyrm
+	7 Eternal Rage
