@@ -5,9 +5,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior",
-			"collector_number": "69",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/69_Aurelia, Ascended Guildmage.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/97_Aurelia, Ascended Guildmage.jpg"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "52",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/52_Kull Varis, Vortex King.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/76_Kull Varis, Vortex King.jpg"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}{R}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "66",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/66_Foundation of the Izzet.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/93_Foundation of the Izzet.jpg"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "85",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/85_Austere Citadel.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/119_Austere Citadel.jpg"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "101",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/101_Idyllic Gardens.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/136_Idyllic Gardens.jpg"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "90",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/90_Charred Fortress.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/125_Charred Fortress.jpg"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Mountain",
-			"collector_number": "106",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/106_Mighty Garrison.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/141_Mighty Garrison.jpg"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "103",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/103_Ingenius Boilerworks.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/138_Ingenius Boilerworks.jpg"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "102",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/102_Imposing Basilica.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/137_Imposing Basilica.jpg"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "110",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/110_Ragged Lowland.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/146_Ragged Lowland.jpg"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Forest",
-			"collector_number": "107",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/107_Mutated Hall.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/142_Mutated Hall.jpg"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "99",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/99_Forsaken Grove.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/134_Forsaken Grove.jpg"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "98",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/98_Forgotten Passages.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/133_Forgotten Passages.jpg"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Monkey Warrior",
-			"collector_number": "36",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/36_Sun, The New Arisen.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/55_Sun, The New Arisen.jpg"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/58_Demonic Price.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/82_Demonic Price.jpg"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Avatar Bird Cleric",
-			"collector_number": "70",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/70_Governor of Destiny.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/98_Governor of Destiny.jpg"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "71",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/71_Season of Plenty.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/99_Season of Plenty.jpg"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Dragon Avatar",
-			"collector_number": "68",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/68_Seraldos, Storm Survivor.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/95_Seraldos, Storm Survivor.jpg"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Manticore",
-			"collector_number": "60",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/60_Vermus, Manticore King.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/86_Vermus, Manticore King.jpg"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Creature — Elemental Noble",
-			"collector_number": "19",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/19_Zachirre, Sea Hero.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/33_Zachirre, Sea Hero.jpg"
 			}
 		},
 		{
@@ -215,16 +215,16 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "51",
+			"collector_number": "75",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thatguythattime.github.io/sets/cmi-files/img/51_The Benevolence_back.jpg"
+					"en": "https://thatguythattime.github.io/sets/cmi-files/img/75_The Benevolence_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/51_The Benevolence_front.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/75_The Benevolence_front.jpg"
 			}
 		},
 		{
@@ -232,9 +232,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Orc",
-			"collector_number": "41",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/41_Drasha, Rebellious Orc.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/60_Drasha, Rebellious Orc.jpg"
 			}
 		},
 		{
@@ -242,9 +242,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Zombie",
-			"collector_number": "28",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/28_Vermon, Horror of the Hills.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/45_Vermon, Horror of the Hills.jpg"
 			}
 		},
 		{
@@ -262,9 +262,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Druid Artificer",
-			"collector_number": "72",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/72_Withrow, Wildwaker.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/102_Withrow, Wildwaker.jpg"
 			}
 		},
 		{
@@ -272,9 +272,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Cat Noble",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/1_Boris, The Stoic King.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/2_Boris, The Stoic King.jpg"
 			}
 		},
 		{
@@ -282,9 +282,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/6_Perch Protection.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/12_Perch Protection.jpg"
 			}
 		},
 		{
@@ -292,9 +292,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "50",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/50_Amelia, The Skyfarer.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/72_Amelia, The Skyfarer.jpg"
 			}
 		},
 		{
@@ -302,9 +302,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Dragon God",
-			"collector_number": "57",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/57_Credest, The Gilded Flame.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/81_Credest, The Gilded Flame.jpg"
 			}
 		},
 		{
@@ -312,9 +312,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Skeleton Soldier",
-			"collector_number": "63",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/63_Akelios Grunts.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/89_Akelios Grunts.jpg"
 			}
 		},
 		{
@@ -322,9 +322,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "35",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/35_Peranon, The War God.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/54_Peranon, The War God.jpg"
 			}
 		},
 		{
@@ -332,9 +332,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Griffin",
-			"collector_number": "4",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/4_Mighty Griff.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/7_Mighty Griff.jpg"
 			}
 		},
 		{
@@ -342,9 +342,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "80",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/80_Commander's Sphere.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/112_Commander's Sphere.jpg"
 			}
 		},
 		{
@@ -352,9 +352,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "129",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/129_Rhystic Study.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/167_Rhystic Study.jpg"
 			}
 		},
 		{
@@ -362,9 +362,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/131_Coalition Victory.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/169_Coalition Victory.jpg"
 			}
 		},
 		{
@@ -372,9 +372,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "130",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/130_Necropotence.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/168_Necropotence.jpg"
 			}
 		},
 		{
@@ -382,9 +382,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "128",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/128_Smothering Tithe.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/166_Smothering Tithe.jpg"
 			}
 		},
 		{
@@ -392,9 +392,9 @@
 			"rarity": "rare",
 			"mana_cost": "{8}{B}{B}{B}",
 			"type": "Legendary Creature — Spirit Assassin",
-			"collector_number": "20",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/20_Aruga, Phantom Death.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/34_Aruga, Phantom Death.jpg"
 			}
 		},
 		{
@@ -402,9 +402,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Elemental Wizard",
-			"collector_number": "18",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/18_Xolo, Zachirre's Mentor.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/32_Xolo, Zachirre's Mentor.jpg"
 			}
 		},
 		{
@@ -412,9 +412,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/15_Twist of Allegiance.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/28_Twist of Allegiance.jpg"
 			}
 		},
 		{
@@ -422,9 +422,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "75",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/75_Krithia Steals the Charms.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/105_Krithia Steals the Charms.jpg"
 			}
 		},
 		{
@@ -432,9 +432,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/3_Johanna, Master Fencer.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/5_Johanna, Master Fencer.jpg"
 			}
 		},
 		{
@@ -442,9 +442,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Creature — Wizard Bird",
-			"collector_number": "17",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/17_Xerces, Time Mage Scion.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/31_Xerces, Time Mage Scion.jpg"
 			}
 		},
 		{
@@ -452,9 +452,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "24",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/24_Necrologia.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/39_Necrologia.jpg"
 			}
 		},
 		{
@@ -462,9 +462,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire Horror",
-			"collector_number": "26",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/26_Thirsty Manananggal.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/42_Thirsty Manananggal.jpg"
 			}
 		},
 		{
@@ -472,9 +472,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "21",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/21_Clovis, The Death God.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/35_Clovis, The Death God.jpg"
 			}
 		},
 		{
@@ -482,9 +482,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "7",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/7_Righteous Campaign.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/13_Righteous Campaign.jpg"
 			}
 		},
 		{
@@ -492,9 +492,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "64",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/64_Fear the Usurper.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/90_Fear the Usurper.jpg"
 			}
 		},
 		{
@@ -502,9 +502,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "77",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/77_Armor of the Darkwyrm.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/109_Armor of the Darkwyrm.jpg"
 			}
 		},
 		{
@@ -522,9 +522,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "33",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/33_Eternal Rage.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/50_Eternal Rage.jpg"
 			}
 		},
 		{
@@ -532,9 +532,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Centaur Druid",
-			"collector_number": "46",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/46_Mana-Wise Hunter.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/65_Mana-Wise Hunter.jpg"
 			}
 		},
 		{
@@ -542,9 +542,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "111",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/111_Serra's Symposium.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/148_Serra's Symposium.jpg"
 			}
 		},
 		{
@@ -552,9 +552,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "31",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/31_Brawl Caller.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/48_Brawl Caller.jpg"
 			}
 		},
 		{
@@ -562,9 +562,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U/R}{B}",
 			"type": "Legendary Creature — Goat God",
-			"collector_number": "76",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/76_Grundl-ix, the Confined.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/107_Grundl-ix, the Confined.jpg"
 			}
 		},
 		{
@@ -572,9 +572,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/2_Come to Roost.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/3_Come to Roost.jpg"
 			}
 		},
 		{
@@ -582,9 +582,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Drake",
-			"collector_number": "9",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/9_The Dragontouched Prince.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/19_The Dragontouched Prince.jpg"
 			}
 		},
 		{
@@ -592,9 +592,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Elf Druid",
-			"collector_number": "45",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/45_Kurro of the Whispering Pine.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/64_Kurro of the Whispering Pine.jpg"
 			}
 		},
 		{
@@ -602,9 +602,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Elemental",
-			"collector_number": "59",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/59_Thorlok, The Risen.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/84_Thorlok, The Risen.jpg"
 			}
 		},
 		{
@@ -612,9 +612,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Snake",
-			"collector_number": "65",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/65_Stella Argulia, Deceiver.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/92_Stella Argulia, Deceiver.jpg"
 			}
 		},
 		{
@@ -622,9 +622,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "61",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/61_Helga, Kurador's Hope.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/87_Helga, Kurador's Hope.jpg"
 			}
 		},
 		{
@@ -632,9 +632,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "43",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/43_Grow to Arms.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/62_Grow to Arms.jpg"
 			}
 		},
 		{
@@ -642,9 +642,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "73",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/73_Ariff, Rafiq's Legacy.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/103_Ariff, Rafiq's Legacy.jpg"
 			}
 		},
 		{
@@ -652,9 +652,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "100",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/100_Golem Sanctuary.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/135_Golem Sanctuary.jpg"
 			}
 		},
 		{
@@ -662,9 +662,9 @@
 			"rarity": "common",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "82",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/82_Maelstrom Colossus.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/114_Maelstrom Colossus.jpg"
 			}
 		},
 		{
@@ -672,9 +672,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "12",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/12_Golemnation.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/22_Golemnation.jpg"
 			}
 		},
 		{
@@ -682,9 +682,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Detective Rogue",
-			"collector_number": "53",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/53_Lyra and The Hawk.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/77_Lyra and The Hawk.jpg"
 			}
 		},
 		{
@@ -722,9 +722,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature",
-			"collector_number": "23",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/23_Gallow of the Depth.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/37_Gallow of the Depth.jpg"
 			}
 		},
 		{
@@ -732,9 +732,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "25",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/25_Stumble.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/41_Stumble.jpg"
 			}
 		},
 		{
@@ -752,9 +752,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "88",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/88_Cavern of Wisdom.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/123_Cavern of Wisdom.jpg"
 			}
 		},
 		{
@@ -762,9 +762,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}",
 			"type": "Artifact Creature — Phyrexian Wurm",
-			"collector_number": "11",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/11_Gixian Rejection.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/21_Gixian Rejection.jpg"
 			}
 		},
 		{
@@ -782,9 +782,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "8",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/8_Awaken Steel.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/18_Awaken Steel.jpg"
 			}
 		},
 		{
@@ -802,9 +802,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/39_Cultivate.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/57_Cultivate.jpg"
 			}
 		},
 		{
@@ -812,9 +812,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/13_Kami's Cursed Game.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/23_Kami's Cursed Game.jpg"
 			}
 		},
 		{
@@ -822,9 +822,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "95",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/95_Door to Mysticism.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/130_Door to Mysticism.jpg"
 			}
 		},
 		{
@@ -832,9 +832,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Warrior Wizard",
-			"collector_number": "32",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/32_Cruel Pyromancer.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/49_Cruel Pyromancer.jpg"
 			}
 		},
 		{
@@ -842,9 +842,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "81",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/81_Idol of Yawgmoth.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/113_Idol of Yawgmoth.jpg"
 			}
 		},
 		{
@@ -852,9 +852,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Nomad",
-			"collector_number": "5",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/5_Nomadic Huntress.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/9_Nomadic Huntress.jpg"
 			}
 		},
 		{
@@ -862,9 +862,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "14",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/14_Purify.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/26_Purify.jpg"
 			}
 		},
 		{
@@ -872,9 +872,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/16_Undercut.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/29_Undercut.jpg"
 			}
 		},
 		{
@@ -882,9 +882,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "30",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/30_Bolthammer.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/47_Bolthammer.jpg"
 			}
 		},
 		{
@@ -892,16 +892,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Insect Wall",
-			"collector_number": "37",
+			"collector_number": "56",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://thatguythattime.github.io/sets/cmi-files/img/37_Cave Coccoon_back.jpg"
+					"en": "https://thatguythattime.github.io/sets/cmi-files/img/56_Cave Coccoon_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/37_Cave Coccoon_front.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/56_Cave Coccoon_front.jpg"
 			}
 		},
 		{
@@ -909,9 +909,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Plant",
-			"collector_number": "47",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/47_Nettlecrocker.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/66_Nettlecrocker.jpg"
 			}
 		},
 		{
@@ -919,9 +919,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "49",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/49_Wild Growth.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/71_Wild Growth.jpg"
 			}
 		},
 		{
@@ -929,9 +929,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{B}",
 			"type": "Legendary Creature — Skeleton Noble",
-			"collector_number": "62",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/62_Akelios, Bone Champion.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/88_Akelios, Bone Champion.jpg"
 			}
 		},
 		{
@@ -939,9 +939,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Siren Warrior",
-			"collector_number": "54",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/54_Nohirra's Guard.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/78_Nohirra's Guard.jpg"
 			}
 		},
 		{
@@ -949,9 +949,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "55",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/55_Rally the Hounds.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/79_Rally the Hounds.jpg"
 			}
 		},
 		{
@@ -959,9 +959,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/56_Sinker.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/80_Sinker.jpg"
 			}
 		},
 		{
@@ -969,9 +969,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Elemental Spirit",
-			"collector_number": "67",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/67_Lantern Spirit.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/94_Lantern Spirit.jpg"
 			}
 		},
 		{
@@ -979,9 +979,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "78",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/78_Bauble of the Fire Core.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/110_Bauble of the Fire Core.jpg"
 			}
 		},
 		{
@@ -989,9 +989,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "79",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/79_Bauble of the War Caster.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/111_Bauble of the War Caster.jpg"
 			}
 		},
 		{
@@ -999,9 +999,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "109",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/109_Promised Valley.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/145_Promised Valley.jpg"
 			}
 		},
 		{
@@ -1009,9 +1009,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "84",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/84_Annointed Reef.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/118_Annointed Reef.jpg"
 			}
 		},
 		{
@@ -1019,9 +1019,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "89",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/89_Charming Hovel.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/124_Charming Hovel.jpg"
 			}
 		},
 		{
@@ -1029,9 +1029,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "92",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/92_Command Tower.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/127_Command Tower.jpg"
 			}
 		},
 		{
@@ -1039,9 +1039,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "94",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/94_Craggled Path.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/129_Craggled Path.jpg"
 			}
 		},
 		{
@@ -1049,9 +1049,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "97",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/97_Flowing Peaks.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/132_Flowing Peaks.jpg"
 			}
 		},
 		{
@@ -1059,9 +1059,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "105",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/105_Magmatic Chasm.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/140_Magmatic Chasm.jpg"
 			}
 		},
 		{
@@ -1079,9 +1079,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "114",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/114_Plains.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/153_Plains.jpg"
 			}
 		},
 		{
@@ -1089,9 +1089,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "113",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/113_Plains.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/152_Plains.jpg"
 			}
 		},
 		{
@@ -1099,9 +1099,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "118",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/118_Island.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/155_Island.jpg"
 			}
 		},
 		{
@@ -1109,9 +1109,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "116",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/116_Island.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/154_Island.jpg"
 			}
 		},
 		{
@@ -1119,9 +1119,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "119",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/119_Swamp.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/158_Swamp.jpg"
 			}
 		},
 		{
@@ -1129,9 +1129,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "120",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/120_Swamp.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/157_Swamp.jpg"
 			}
 		},
 		{
@@ -1139,9 +1139,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "122",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/122_Mountain.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/162_Mountain.jpg"
 			}
 		},
 		{
@@ -1149,9 +1149,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "123",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/123_Mountain.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/161_Mountain.jpg"
 			}
 		},
 		{
@@ -1159,9 +1159,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "125",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/125_Forest.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/165_Forest.jpg"
 			}
 		},
 		{
@@ -1169,9 +1169,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "126",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/126_Forest.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/163_Forest.jpg"
 			}
 		},
 		{
@@ -1179,9 +1179,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "115",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/115_Plains.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/151_Plains.jpg"
 			}
 		},
 		{
@@ -1189,9 +1189,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "117",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/117_Island.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/156_Island.jpg"
 			}
 		},
 		{
@@ -1199,9 +1199,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "121",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/121_Swamp.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/159_Swamp.jpg"
 			}
 		},
 		{
@@ -1209,9 +1209,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "124",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/124_Mountain.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/160_Mountain.jpg"
 			}
 		},
 		{
@@ -1219,9 +1219,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "127",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/127_Forest.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/164_Forest.jpg"
 			}
 		},
 		{
@@ -1239,9 +1239,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "112",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/112_Smoggy Nest.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/150_Smoggy Nest.jpg"
 			}
 		},
 		{
@@ -1249,9 +1249,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "91",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/91_Command Beacon.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/126_Command Beacon.jpg"
 			}
 		},
 		{
@@ -1259,9 +1259,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "87",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/87_Bounteous Valley.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/122_Bounteous Valley.jpg"
 			}
 		},
 		{
@@ -1269,9 +1269,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "104",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/104_Luminescent Alcove.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/139_Luminescent Alcove.jpg"
 			}
 		},
 		{
@@ -1279,9 +1279,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "86",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/86_Autumn Thicket.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/120_Autumn Thicket.jpg"
 			}
 		},
 		{
@@ -1289,9 +1289,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "93",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/93_Coral Hideaway.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/128_Coral Hideaway.jpg"
 			}
 		},
 		{
@@ -1299,9 +1299,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "108",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/108_Path of Ancestry.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/143_Path of Ancestry.jpg"
 			}
 		},
 		{
@@ -1309,9 +1309,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/42_Farseek.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/61_Farseek.jpg"
 			}
 		},
 		{
@@ -1319,9 +1319,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "48",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/48_Steven Belledin.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/70_Steven Belledin.jpg"
 			}
 		},
 		{
@@ -1329,9 +1329,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery — Arcane",
-			"collector_number": "38",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/38_Cultivate.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/58_Cultivate.jpg"
 			}
 		},
 		{
@@ -1339,9 +1339,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/22_Feed the Swarm.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/36_Feed the Swarm.jpg"
 			}
 		},
 		{
@@ -1349,9 +1349,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "34",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/34_Faithless Looting.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/51_Faithless Looting.jpg"
 			}
 		},
 		{
@@ -1359,9 +1359,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/10_Frantic Search.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/20_Frantic Search.jpg"
 			}
 		},
 		{
@@ -1369,9 +1369,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "96",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/96_Exotic Orchard.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/131_Exotic Orchard.jpg"
 			}
 		},
 		{
@@ -1379,9 +1379,9 @@
 			"rarity": "rare",
 			"mana_cost": "{8}{R}",
 			"type": "Sorcery",
-			"collector_number": "29",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/29_Blasphemous Act.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/46_Blasphemous Act.jpg"
 			}
 		},
 		{
@@ -1389,9 +1389,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/44_Heroic Intervention.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/63_Heroic Intervention.jpg"
 			}
 		},
 		{
@@ -1399,9 +1399,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment",
-			"collector_number": "40",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/40_Doubling Season.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/59_Doubling Season.jpg"
 			}
 		},
 		{
@@ -1409,9 +1409,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "83",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/83_Solemn Simulacrum.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/116_Solemn Simulacrum.jpg"
 			}
 		},
 		{
@@ -1419,9 +1419,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/27_Toxic Deluge.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/44_Toxic Deluge.jpg"
 			}
 		},
 		{
@@ -1429,9 +1429,389 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Creature — Satyr Demigod",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/104_Hargin, The Animator.jpg"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/108_Arcane Signet.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Bauble",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/117_Wayfarer's Bauble.jpg"
+			}
+		},
+		{
+			"name": "Sakura-Tribe Elder",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake Shaman",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/69_Sakura-Tribe Elder.jpg"
+			}
+		},
+		{
+			"name": "Sun Rays",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fish",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/15_Sun Rays.jpg"
+			}
+		},
+		{
+			"name": "Swords to Plowshares",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/16_Swords to Plowshares.jpg"
+			}
+		},
+		{
+			"name": "Rampant Oakre",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Ogre Treefolk",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/68_Rampant Oakre.jpg"
+			}
+		},
+		{
+			"name": "Universal Restart",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/74_Hargin, The Animator.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/74_Universal Restart.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Gate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Gate",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/144_Prismatic Gate.jpg"
+			}
+		},
+		{
+			"name": "Impact Tremors",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/52_Impact Tremors.jpg"
+			}
+		},
+		{
+			"name": "Kessig Flamebreather",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/53_Kessig Flamebreather.jpg"
+			}
+		},
+		{
+			"name": "Genesis",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/4_Genesis.jpg"
+			}
+		},
+		{
+			"name": "Zyota, Earth Core",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Avatar God",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/106_Zyota, Earth Core.jpg"
+			}
+		},
+		{
+			"name": "Shrine of Punishment",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/149_Shrine of Punishment.jpg"
+			}
+		},
+		{
+			"name": "Kiss of Life",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/6_Kiss of Life.jpg"
+			}
+		},
+		{
+			"name": "Start of a New Age",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/14_Start of a New Age.jpg"
+			}
+		},
+		{
+			"name": "Negotiate Survival",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/8_Negotiate Survival.jpg"
+			}
+		},
+		{
+			"name": "Junkwave",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/91_Junkwave.jpg"
+			}
+		},
+		{
+			"name": "Wary Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/30_Wary Hunter.jpg"
+			}
+		},
+		{
+			"name": "Thoughtcrush",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/27_Thoughtcrush.jpg"
+			}
+		},
+		{
+			"name": "Portal Trick",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/25_Portal Trick.jpg"
+			}
+		},
+		{
+			"name": "Maddening Power",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/24_Maddening Power.jpg"
+			}
+		},
+		{
+			"name": "Rot Flaunter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Zombie",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/40_Rot Flaunter.jpg"
+			}
+		},
+		{
+			"name": "Pay the Price",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/83_Pay the Price.jpg"
+			}
+		},
+		{
+			"name": "Riverspeaker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Druid Wizard",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/101_Riverspeaker.jpg"
+			}
+		},
+		{
+			"name": "RA01 Conduit Golem",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/115_RA01 Conduit Golem.jpg"
+			}
+		},
+		{
+			"name": "Path to Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/11_Path to Exile.jpg"
+			}
+		},
+		{
+			"name": "Soar the Cosmos",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/96_Soar the Cosmos.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Flare",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/85_Vengeful Flare.jpg"
+			}
+		},
+		{
+			"name": "Bajuka Bog",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/121_Bajuka Bog.jpg"
+			}
+		},
+		{
+			"name": "Reliquary Tower",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/147_Reliquary Tower.jpg"
+			}
+		},
+		{
+			"name": "ACV7 Aether Regulator",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/1_ACV7 Aether Regulator.jpg"
+			}
+		},
+		{
+			"name": "Parter of Skies",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Angel",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/10_Parter of Skies.jpg"
+			}
+		},
+		{
+			"name": "End Times",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/73_End Times.jpg"
+			}
+		},
+		{
+			"name": "Awaken the Core",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/100_Awaken the Core.jpg"
+			}
+		},
+		{
+			"name": "Thunderbird",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Chimera Bird",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/17_Thunderbird.jpg"
+			}
+		},
+		{
+			"name": "Mourning Gravedigger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/38_Mourning Gravedigger.jpg"
+			}
+		},
+		{
+			"name": "Through Skin and Bone",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/43_Through Skin and Bone.jpg"
+			}
+		},
+		{
+			"name": "Pick Your Poison",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/67_Pick Your Poison.jpg"
 			}
 		},
 	]
@@ -1492,6 +1872,17 @@
 	2 Solemn Simulacrum
 	2 Toxic Deluge
 	1 Hargin, The Animator
+	2 Universal Restart
+	1 Zyota, Earth Core
+	2 Shrine of Punishment
+	2 Start of a New Age
+	2 Negotiate Survival
+	2 Junkwave
+	2 RA01 Conduit Golem
+	2 Soar the Cosmos
+	2 ACV7 Aether Regulator
+	1 Parter of Skies
+	2 End Times
 [uncommon(4)]
 	4 Vermus, Manticore King
 	4 Zachirre, Sea Hero
@@ -1518,6 +1909,20 @@
 	4 Nohirra's Guard
 	4 Sinker
 	4 Promised Valley
+	4 Arcane Signet
+	4 Swords to Plowshares
+	4 Prismatic Gate
+	4 Genesis
+	4 Pay the Price
+	4 Riverspeaker
+	4 Path to Exile
+	4 Vengeful Flare
+	4 Bajuka Bog
+	4 Reliquary Tower
+	4 Awaken the Core
+	4 Thunderbird
+	4 Mourning Gravedigger
+	4 Through Skin and Bone
 [common(7)]
 	8 Mighty Griff
 	8 Commander's Sphere
@@ -1551,6 +1956,19 @@
 	8 Feed the Swarm
 	8 Faithless Looting
 	8 Frantic Search
+	8 Wayfarer's Bauble
+	8 Sakura-Tribe Elder
+	8 Sun Rays
+	8 Rampant Oakre
+	8 Impact Tremors
+	8 Kessig Flamebreather
+	8 Kiss of Life
+	8 Wary Hunter
+	8 Thoughtcrush
+	8 Portal Trick
+	8 Maddening Power
+	8 Rot Flaunter
+	8 Pick Your Poison
 [wildcard(2)]
 	7 Aurelia, Ascended Guildmage
 	7 Kull Varis, Vortex King
@@ -1664,3 +2082,41 @@
 	7 Solemn Simulacrum
 	7 Toxic Deluge
 	4 Hargin, The Animator
+	15 Arcane Signet
+	6 Wayfarer's Bauble
+	6 Sakura-Tribe Elder
+	6 Sun Rays
+	15 Swords to Plowshares
+	6 Rampant Oakre
+	7 Universal Restart
+	15 Prismatic Gate
+	6 Impact Tremors
+	6 Kessig Flamebreather
+	15 Genesis
+	4 Zyota, Earth Core
+	7 Shrine of Punishment
+	6 Kiss of Life
+	7 Start of a New Age
+	7 Negotiate Survival
+	7 Junkwave
+	6 Wary Hunter
+	6 Thoughtcrush
+	6 Portal Trick
+	6 Maddening Power
+	6 Rot Flaunter
+	15 Pay the Price
+	15 Riverspeaker
+	7 RA01 Conduit Golem
+	15 Path to Exile
+	7 Soar the Cosmos
+	15 Vengeful Flare
+	15 Bajuka Bog
+	15 Reliquary Tower
+	7 ACV7 Aether Regulator
+	4 Parter of Skies
+	7 End Times
+	15 Awaken the Core
+	15 Thunderbird
+	15 Mourning Gravedigger
+	15 Through Skin and Bone
+	6 Pick Your Poison
