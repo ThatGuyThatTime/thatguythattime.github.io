@@ -349,42 +349,42 @@
 		},
 		{
 			"name": "Rhystic Study",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "2",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/2_Rhystic Study.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/129_Rhystic Study.jpg"
 			}
 		},
 		{
 			"name": "Coalition Victory",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "4",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/4_Coalition Victory.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/131_Coalition Victory.jpg"
 			}
 		},
 		{
 			"name": "Necropotence",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "3",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/3_Necropotence.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/130_Necropotence.jpg"
 			}
 		},
 		{
 			"name": "Smothering Tithe",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "1",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/1_Smothering Tithe.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/128_Smothering Tithe.jpg"
 			}
 		},
 		{
@@ -802,9 +802,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/38_Cultivate.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/39_Cultivate.jpg"
 			}
 		},
 		{
@@ -1099,9 +1099,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "116",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/116_Island.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/118_Island.jpg"
 			}
 		},
 		{
@@ -1109,19 +1109,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "118",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/118_Island.jpg"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "121",
-			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/121_Swamp.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/116_Island.jpg"
 			}
 		},
 		{
@@ -1135,13 +1125,23 @@
 			}
 		},
 		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/120_Swamp.jpg"
+			}
+		},
+		{
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "124",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/124_Mountain.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/122_Mountain.jpg"
 			}
 		},
 		{
@@ -1159,9 +1159,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "127",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/127_Forest.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/125_Forest.jpg"
 			}
 		},
 		{
@@ -1199,9 +1199,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/120_Swamp.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/121_Swamp.jpg"
 			}
 		},
 		{
@@ -1209,9 +1209,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "122",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/122_Mountain.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/124_Mountain.jpg"
 			}
 		},
 		{
@@ -1219,9 +1219,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "125",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/125_Forest.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/127_Forest.jpg"
 			}
 		},
 		{
@@ -1329,9 +1329,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery — Arcane",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://thatguythattime.github.io/sets/cmi-files/img/39_Cultivate.jpg"
+				"en": "https://thatguythattime.github.io/sets/cmi-files/img/38_Cultivate.jpg"
 			}
 		},
 		{
