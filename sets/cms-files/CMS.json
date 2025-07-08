@@ -1,6 +1,6 @@
 ﻿{
     "name": "<b></b><b></b>COMMANDER SUPERSTARS",
-    "formats": "",
+    "formats": "Commander",
     "trimmed": "y",
     "image_type": "jpg",
     "draft_structure": "play booster",
@@ -866,7 +866,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
+            "special_text2": "",
             "loyalty2": "",
             "artist2": "Raja Nandepu",
             "notes": ""
@@ -1076,7 +1076,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]",
+            "special_text2": "",
             "loyalty2": "",
             "artist2": "Anthony Catillaz",
             "notes": ""
@@ -2881,7 +2881,7 @@
             "number": 88,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card with mana value X or less, where X is the mana value of the sacrificed creature.",
+            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card with mana value X or less, where X is the mana value of the sacrificed creature. Put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
