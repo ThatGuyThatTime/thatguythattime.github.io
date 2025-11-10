@@ -1,0 +1,600 @@
+[CustomCards]
+	[
+		{
+			"name": "The Rabbit-Hearts of Yore",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Rabbit Hero",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/17_The Rabbit-Hearts of Yore.jpg"
+			}
+		},
+		{
+			"name": "Commander Long-Ear",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{W}{W}",
+			"type": "Legendary Creature — Rabbit Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/13_Commander Long-Ear.jpg"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/1_Copy.jpg"
+			}
+		},
+		{
+			"name": "Sylvan Tutor",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/34_Sylvan Tutor.jpg"
+			}
+		},
+		{
+			"name": "Monk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Monk",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/4_Monk.jpg"
+			}
+		},
+		{
+			"name": "Find Yourself",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/5_Find Yourself.jpg"
+			}
+		},
+		{
+			"name": "Balance of Peace",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/2_Balance of Peace.jpg"
+			}
+		},
+		{
+			"name": "Monastery Swiftspear",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/32_Monastery Swiftspear.jpg"
+			}
+		},
+		{
+			"name": "Upon A Star",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/7_Upon A Star.jpg"
+			}
+		},
+		{
+			"name": "New-Age Resolutions",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/15_New-Age Resolutions.jpg"
+			}
+		},
+		{
+			"name": "Wish",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/33_Wish.jpg"
+			}
+		},
+		{
+			"name": "Viera, the Spellcharged",
+			"rarity": "rare",
+			"mana_cost": "{3}{W/U}{U/B}{U/R}{G/U}",
+			"type": "Legendary Creature — Dinosaur Elemental",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/22_Viera, the Spellcharged.jpg"
+			}
+		},
+		{
+			"name": "Forewarning Apocalypse",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/9_Forewarning Apocalypse.jpg"
+			}
+		},
+		{
+			"name": "Avatar Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/5_Avatar Knight.jpg"
+			}
+		},
+		{
+			"name": "Avatar Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/6_Avatar Knight.jpg"
+			}
+		},
+		{
+			"name": "Avatar Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar Knight",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/7_Avatar Knight.jpg"
+			}
+		},
+		{
+			"name": "Avatar Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/8_Avatar Knight.jpg"
+			}
+		},
+		{
+			"name": "Mystic Remora",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/27_Mystic Remora.jpg"
+			}
+		},
+		{
+			"name": "A Moonlit Thraben...",
+			"rarity": "mythic",
+			"mana_cost": "{3}{C/B}{C/B}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thatguythattime.github.io/sets/mox-files/img/10_A Moonlit Thraben..._back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/10_A Moonlit Thraben..._front.jpg"
+			}
+		},
+		{
+			"name": "Seek the Titan",
+			"rarity": "rare",
+			"mana_cost": "{1}{C}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/1_Seek the Titan.jpg"
+			}
+		},
+		{
+			"name": "Eldrazi Warlock",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Eldrazi Warlock",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/3_Eldrazi Warlock.jpg"
+			}
+		},
+		{
+			"name": "Blood Moon",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/31_Blood Moon.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Stag",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Artifact Creature",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/16_Prismatic Stag.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Ward",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/25_Prismatic Ward.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Skyclave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/23_Prismatic Skyclave.jpg"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/2_Copy.jpg"
+			}
+		},
+		{
+			"name": "Power of the Primate",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/12_Power of the Primate.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Recall",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/26_Ancestral Recall.jpg"
+			}
+		},
+		{
+			"name": "You Discover Some Gems...",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/21_You Discover Some Gems....jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/17_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Mox",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Mox",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/11_Mox.jpg"
+			}
+		},
+		{
+			"name": "Mox",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Mox",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/12_Mox.jpg"
+			}
+		},
+		{
+			"name": "Mox",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Mox",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/13_Mox.jpg"
+			}
+		},
+		{
+			"name": "Mox",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Mox",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/14_Mox.jpg"
+			}
+		},
+		{
+			"name": "Mox",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Mox",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/15_Mox.jpg"
+			}
+		},
+		{
+			"name": "Blasphemous Edict",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/29_Blasphemous Edict.jpg"
+			}
+		},
+		{
+			"name": "Those Who Sow",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment Creature — Saga Horror",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/11_Those Who Sow.jpg"
+			}
+		},
+		{
+			"name": "Corona, Divine Punisher",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{W}",
+			"type": "Legendary Creature — Angel Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/14_Corona, Divine Punisher.jpg"
+			}
+		},
+		{
+			"name": "Curse of Corporation",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/3_Curse of Corporation.jpg"
+			}
+		},
+		{
+			"name": "Appease the Eigenstars",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/8_Appease the Eigenstars.jpg"
+			}
+		},
+		{
+			"name": "Bitter Reunion",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/30_Bitter Reunion.jpg"
+			}
+		},
+		{
+			"name": "Elspeth, Hero of Theros",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Elspeth",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/4_Elspeth, Hero of Theros.jpg"
+			}
+		},
+		{
+			"name": "Starlight Meadow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/24_Starlight Meadow.jpg"
+			}
+		},
+		{
+			"name": "Sway of the Stars",
+			"rarity": "special",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/28_Sway of the Stars.jpg"
+			}
+		},
+		{
+			"name": "Starmer Vivesector",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/19_Starmer Vivesector.jpg"
+			}
+		},
+		{
+			"name": "Tezzeret, First to Deceive",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Tezzeret",
+			"collector_number": "20",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://thatguythattime.github.io/sets/mox-files/img/20_Tezzeret, First to Deceive_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/20_Tezzeret, First to Deceive_front.jpg"
+			}
+		},
+		{
+			"name": "Artifact Mutation",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/35_Artifact Mutation.jpg"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/10_Construct.jpg"
+			}
+		},
+		{
+			"name": "Phyrexian Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Phyrexian Construct",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/16_Phyrexian Construct.jpg"
+			}
+		},
+		{
+			"name": "Rhythm in the Tides",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/18_Rhythm in the Tides.jpg"
+			}
+		},
+		{
+			"name": "Karsi Orders the Universe",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/6_Karsi Orders the Universe.jpg"
+			}
+		},
+		{
+			"name": "Aeon Engine",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/36_Aeon Engine.jpg"
+			}
+		},
+		{
+			"name": "Merfolk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Merfolk",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://thatguythattime.github.io/sets/mox-files/img/9_Merfolk.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+	2 The Rabbit-Hearts of Yore
+	1 Commander Long-Ear
+	2 Find Yourself
+	2 Upon A Star
+	1 New-Age Resolutions
+	2 Viera, the Spellcharged
+	2 Forewarning Apocalypse
+	1 A Moonlit Thraben...
+	2 Seek the Titan
+	2 Prismatic Stag
+	2 Power of the Primate
+	1 You Discover Some Gems...
+	2 Those Who Sow
+	1 Corona, Divine Punisher
+	2 Curse of Corporation
+	1 Appease the Eigenstars
+	2 Elspeth, Hero of Theros
+	2 Starlight Meadow
+	2 Starmer Vivesector
+	1 Tezzeret, First to Deceive
+	2 Karsi Orders the Universe
+[uncommon(4)]
+	4 Prismatic Skyclave
+	4 Rhythm in the Tides
+[common(7)]
+	8 Balance of Peace
+[wildcard(2)]
+	7 The Rabbit-Hearts of Yore
+	4 Commander Long-Ear
+	7 Find Yourself
+	6 Balance of Peace
+	7 Upon A Star
+	4 New-Age Resolutions
+	7 Viera, the Spellcharged
+	7 Forewarning Apocalypse
+	4 A Moonlit Thraben...
+	7 Seek the Titan
+	7 Prismatic Stag
+	15 Prismatic Skyclave
+	7 Power of the Primate
+	4 You Discover Some Gems...
+	7 Those Who Sow
+	4 Corona, Divine Punisher
+	7 Curse of Corporation
+	4 Appease the Eigenstars
+	7 Elspeth, Hero of Theros
+	7 Starlight Meadow
+	7 Starmer Vivesector
+	4 Tezzeret, First to Deceive
+	15 Rhythm in the Tides
+	7 Karsi Orders the Universe
